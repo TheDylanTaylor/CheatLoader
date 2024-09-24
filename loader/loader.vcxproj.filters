@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="framework">
+      <UniqueIdentifier>{e324bc38-e3f7-4b04-8c9b-f4a2ff208224}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="framework\gui">
+      <UniqueIdentifier>{2ef08f38-25ec-4d90-bcc3-f8f3d322baa7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="protect">
+      <UniqueIdentifier>{aaff70aa-8244-4baa-842c-67848fcddefb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="protect\hash">
+      <UniqueIdentifier>{3fec2476-0ddc-499e-968d-6c39faad13a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="protect\spoof">
+      <UniqueIdentifier>{5a58a2f1-6b16-4456-aa6f-67ef4ffbb6b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Fonts.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="imconfig.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_win32.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_internal.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_settings.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_rectpack.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_textedit.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_truetype.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="entry.h" />
+    <ClInclude Include="imgui_impl_dx11.h">
+      <Filter>framework\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="hash.h">
+      <Filter>protect\hash</Filter>
+    </ClInclude>
+    <ClInclude Include="spoofcalls.hpp">
+      <Filter>protect\spoof</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="imgui.cpp">
+      <Filter>framework\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_demo.cpp">
+      <Filter>framework\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_draw.cpp">
+      <Filter>framework\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_win32.cpp">
+      <Filter>framework\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_tables.cpp">
+      <Filter>framework\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_widgets.cpp">
+      <Filter>framework\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="entry.cpp" />
+    <ClCompile Include="imgui_impl_dx11.cpp">
+      <Filter>framework\gui</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

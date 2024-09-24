@@ -1,0 +1,247 @@
+﻿  entry.cpp
+  imgui.cpp
+C:\Users\Administrator\Desktop\loader\loader\entry.h(11,10): error C1083: Cannot open include file: 'D3DX11.h': No such file or directory
+  (compiling source file 'entry.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(204,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'imgui.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(391,9):
+      see previous definition of 'LOWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(205,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'imgui.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(394,9):
+      see previous definition of 'HIWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(206,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'imgui.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(390,9):
+      see previous definition of 'LOBYTE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(207,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'imgui.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(393,9):
+      see previous definition of 'HIBYTE'
+  
+C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19): warning C4127: conditional expression is constant
+  (compiling source file 'imgui.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      consider using 'if constexpr' statement instead
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Administrator\Desktop\loader\loader\hash.h(530,58):
+          see reference to function template instantiation 'T __ROL__<uint8>(T,int)' being compiled
+          with
+          [
+              T=uint8
+          ]
+  
+  imgui_demo.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(204,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'imgui_demo.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(391,9):
+      see previous definition of 'LOWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(205,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'imgui_demo.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(394,9):
+      see previous definition of 'HIWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(206,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'imgui_demo.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(390,9):
+      see previous definition of 'LOBYTE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(207,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'imgui_demo.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(393,9):
+      see previous definition of 'HIBYTE'
+  
+C:\Users\Administrator\Desktop\loader\loader\imgui_demo.cpp(3384,25): warning C4002: too many arguments for function-like macro invocation 'OBFUSCATE_STR'
+C:\Users\Administrator\Desktop\loader\loader\imgui_demo.cpp(7218,25): warning C4002: too many arguments for function-like macro invocation 'OBFUSCATE_STR'
+C:\Users\Administrator\Desktop\loader\loader\imgui_demo.cpp(7189,14): warning C4189: 'io': local variable is initialized but not referenced
+C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19): warning C4127: conditional expression is constant
+  (compiling source file 'imgui_demo.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      consider using 'if constexpr' statement instead
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Administrator\Desktop\loader\loader\hash.h(530,58):
+          see reference to function template instantiation 'T __ROL__<uint8>(T,int)' being compiled
+          with
+          [
+              T=uint8
+          ]
+  
+  imgui_draw.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(204,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'imgui_draw.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(391,9):
+      see previous definition of 'LOWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(205,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'imgui_draw.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(394,9):
+      see previous definition of 'HIWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(206,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'imgui_draw.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(390,9):
+      see previous definition of 'LOBYTE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(207,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'imgui_draw.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(393,9):
+      see previous definition of 'HIBYTE'
+  
+C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19): warning C4127: conditional expression is constant
+  (compiling source file 'imgui_draw.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      consider using 'if constexpr' statement instead
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Administrator\Desktop\loader\loader\hash.h(530,58):
+          see reference to function template instantiation 'T __ROL__<uint8>(T,int)' being compiled
+          with
+          [
+              T=uint8
+          ]
+  
+  imgui_impl_dx11.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(204,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'imgui_impl_dx11.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(391,9):
+      see previous definition of 'LOWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(205,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'imgui_impl_dx11.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(394,9):
+      see previous definition of 'HIWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(206,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'imgui_impl_dx11.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(390,9):
+      see previous definition of 'LOBYTE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(207,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'imgui_impl_dx11.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(393,9):
+      see previous definition of 'HIBYTE'
+  
+C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19): warning C4127: conditional expression is constant
+  (compiling source file 'imgui_impl_dx11.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      consider using 'if constexpr' statement instead
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Administrator\Desktop\loader\loader\hash.h(530,58):
+          see reference to function template instantiation 'T __ROL__<uint8>(T,int)' being compiled
+          with
+          [
+              T=uint8
+          ]
+  
+  imgui_impl_win32.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(204,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'imgui_impl_win32.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(391,9):
+      see previous definition of 'LOWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(205,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'imgui_impl_win32.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(394,9):
+      see previous definition of 'HIWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(206,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'imgui_impl_win32.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(390,9):
+      see previous definition of 'LOBYTE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(207,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'imgui_impl_win32.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(393,9):
+      see previous definition of 'HIBYTE'
+  
+C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19): warning C4127: conditional expression is constant
+  (compiling source file 'imgui_impl_win32.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      consider using 'if constexpr' statement instead
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Administrator\Desktop\loader\loader\hash.h(530,58):
+          see reference to function template instantiation 'T __ROL__<uint8>(T,int)' being compiled
+          with
+          [
+              T=uint8
+          ]
+  
+  imgui_tables.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(204,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'imgui_tables.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(391,9):
+      see previous definition of 'LOWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(205,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'imgui_tables.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(394,9):
+      see previous definition of 'HIWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(206,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'imgui_tables.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(390,9):
+      see previous definition of 'LOBYTE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(207,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'imgui_tables.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(393,9):
+      see previous definition of 'HIBYTE'
+  
+C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19): warning C4127: conditional expression is constant
+  (compiling source file 'imgui_tables.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      consider using 'if constexpr' statement instead
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Administrator\Desktop\loader\loader\hash.h(530,58):
+          see reference to function template instantiation 'T __ROL__<uint8>(T,int)' being compiled
+          with
+          [
+              T=uint8
+          ]
+  
+  imgui_widgets.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(204,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'imgui_widgets.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(391,9):
+      see previous definition of 'LOWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(205,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'imgui_widgets.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(394,9):
+      see previous definition of 'HIWORD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(206,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'imgui_widgets.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(390,9):
+      see previous definition of 'LOBYTE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(207,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'imgui_widgets.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(393,9):
+      see previous definition of 'HIBYTE'
+  
+C:\Users\Administrator\Desktop\loader\loader\imgui_widgets.cpp(4855,19): warning C4189: 'bg_offy_dn': local variable is initialized but not referenced
+C:\Users\Administrator\Desktop\loader\loader\imgui_widgets.cpp(4927,19): warning C4189: 'col': local variable is initialized but not referenced
+C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19): warning C4127: conditional expression is constant
+  (compiling source file 'imgui_widgets.cpp')
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      consider using 'if constexpr' statement instead
+      C:\Users\Administrator\Desktop\loader\loader\hash.h(515,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Administrator\Desktop\loader\loader\hash.h(530,58):
+          see reference to function template instantiation 'T __ROL__<uint8>(T,int)' being compiled
+          with
+          [
+              T=uint8
+          ]
+  
